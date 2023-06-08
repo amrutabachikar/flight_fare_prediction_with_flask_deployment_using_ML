@@ -1,5 +1,5 @@
-# Flight Fare Prediction - a Classic Time Series Project
-* Flight fare prediction is a classical problem of time series forecasting that finds trends in past observations to outline the future
+# Flight Fare Prediction - a machine learning Project
+* Flight fare prediction is a traditional problem of time series forecasting that finds trends in past observations to outline the future
 * Many popular flight booking websites today, including Google Flights, showcase important insights on:
   * Current fair status: high, low or fair
   * Past fare trends, upcoming future trends and 
